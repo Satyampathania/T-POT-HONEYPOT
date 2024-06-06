@@ -32,15 +32,15 @@
 ---
 
 ## 🖼️ Screenshots
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jBlBEAiOJny1GxZUODMg8g.png
+![Image1](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jBlBEAiOJny1GxZUODMg8g.png)
 
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tBiqsYM9pr0LW2_PFkxMdw.png
+![Image2](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tBiqsYM9pr0LW2_PFkxMdw.png)
 
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6RciLSgb0rGVrJ8ZWbMPzw.png
+![Image3](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6RciLSgb0rGVrJ8ZWbMPzw.png)
 
-https://miro.medium.com/v2/resize:fit:1100/format:webp/1*l9RijpXuDcf07j2Verxfpw.png
+![Image4](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*l9RijpXuDcf07j2Verxfpw.png)
 
-
+Image links fixed by [Pralin Khaira](https://github.com/pralinkhaira)
 ---
 
 ## 🤝 Contribution
