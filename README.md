@@ -32,6 +32,8 @@
 ---
 
 ## 🖼️ Screenshots
+https://miro.medium.com/v2/resize:fit:1100/format:webp/1*jBlBEAiOJny1GxZUODMg8g.png
+
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tBiqsYM9pr0LW2_PFkxMdw.png
 
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6RciLSgb0rGVrJ8ZWbMPzw.png
