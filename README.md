@@ -32,9 +32,10 @@
 ---
 
 ## 🖼️ Screenshots
-
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*tBiqsYM9pr0LW2_PFkxMdw.png
+
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*6RciLSgb0rGVrJ8ZWbMPzw.png
+
 https://miro.medium.com/v2/resize:fit:1100/format:webp/1*l9RijpXuDcf07j2Verxfpw.png
 
 
