@@ -68,3 +68,9 @@ For questions or feedback, please contact the project maintainer:
 - **Name**: Satyam Pathania
 - **Email**: satyampathania14@gmail.com, satyampathania69@gmail.com
 - **LinkedIn**: [Satyam Pathania](https://www.linkedin.com/in/satyam-pathania/)
+
+- **Name**: Aparna Dwivedi
+- **Email**: aparnadwivedi1706@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/aparna-dwivedi-42aa21230/
+
+  
