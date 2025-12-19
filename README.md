@@ -40,7 +40,7 @@
 
 ![Image4](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*l9RijpXuDcf07j2Verxfpw.png)
 
-Image links fixed by [Pralin Khaira](https://github.com/pralinkhaira)
+
 ---
 
 ## 🤝 Contribution
